@@ -69,7 +69,7 @@ cozoni-product-catalog-scraper/
 │
 ├── cozoni.ipynb     # Main scraping notebook
 ├── cozoni_raw_catalog_view.csv    # Raw scraped data (910 rows)
-├── cozoni_master_catalog.csv      # Cleaned final catalog (214 products)
+├── cozoni_clean_catalog_view.csv      # Cleaned final catalog (214 products)
 └── README.md                      # Project documentation
 ```
 
